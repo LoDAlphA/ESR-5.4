@@ -1,5 +1,5 @@
 # ESR-5.4
-Alpha Test Version
+Alpha Test Version - NOT PLAYABLE
 
 
 EASTERN SUN RISES
