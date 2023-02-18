@@ -64,13 +64,7 @@ r11 rune
 r12 rune
 r13 rune
 r14 rune
-r15 rune
-r16 rune
-r17 rune
-r18 rune
-r19 rune
-r20 rune
-r21 rune
+
 
 Normal hide section:
 
