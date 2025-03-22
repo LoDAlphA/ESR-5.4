@@ -424,10 +424,10 @@ dmg-fire/kill	1			15	item_fire_damagemin_perkill			16	item_fire_damagemax_perkil
 nec-fire	1			1	item_nec_holyfire																														0
 sum-skills	1			1	item_summskills																														0
 skeli	1			1	item_nec_skeli																														0
-psn%/dex	1			1	item_poison_perdex																														0
+psn%/dex	1			1	item_poison%_perdex																														0
 dmg-psn/kill	1			16	item_pois_damagemax_perkill																													none	0
 maxdmg-mag/kill	1			16	item_magic_damagemax_perkill																													none	0
-mag%/str	1			1	item_magic_perstr																														0
+mag%/str	1			1	item_magic%_perstr																														0
 warcry-effect	1			1	item_barb_warcry																														0
 ltngskill	1			1	item_barb_ltngskill																														0
 thundertime	1			1	item_barb_thunder																														0
@@ -440,11 +440,10 @@ wolf2	1			1	item_druid_wolf2																														0
 dclaws	1			1	item_druid_claws																														0
 dshock	1			1	item_druid_shock																														0
 stwister	1			1	item_sorc_twister																														0
-life/enr	1			1	item_life_perenr																														0
 sshower	1			1	item_sorc_shower																														0
-cold%/coldres	1			1	item_cold_percoldres																														0
-ltng%/gold%	1			1	item_ltng_pergold																														0
-fire%/dex	1			1	item_fire_perdex																														0
+cold%/coldres	1			1	item_cold%_percoldres																														0
+ltng%/gold%	1			1	item_ltng%_pergold																														0
+fire%/str	1			1	item_fire%_perstr																														0
 ama-hawk	1			1	item_ama_hawk																														0
 ama-hawk2	1			1	item_ama_hawk2																														0
 pala-bolt	1			1	item_pala_bolt																														0
@@ -453,6 +452,7 @@ pala-tele	1			1	item_pala_tele																														0
 ex-minion2	1			1	skill_extra_minion2																														0
 hp/dex	1			1	item_hp_perdex																														0
 hp/str	1			1	item_hp_perstr																														0
+hp/enr	1			1	item_life_perenr																														0
 sorcb	1			1	item_sorc_bolt																														0
 pierce-phys	1			1	passive_phys_pierce																									Negates % of Enemy Cold Resistance		min	max	none	0
 pierce-mag	1			1	passive_mag_pierce																									Negates % of Enemy Cold Resistance		min	max	none	0
@@ -465,5 +465,20 @@ extra-all	1			1	passive_fire_mastery			3	passive_ltng_mastery			3	passive_cold_m
 pierce-all	1			1	passive_fire_pierce			3	passive_ltng_pierce			3	passive_cold_pierce			3	passive_pois_pierce			3	passive_phys_pierce			3	passive_mag_pierce										0
 hit-splash	1			11	item_skillonhitmele																									Proc Skill on Hit	Skill #	% Chance	Level	none	0
 nspear	1			1	item_nec_spear																														0
-dmg-ltng/vit	1			15	min_ltngdmg_per_vitality			16	max_ltngdmg_per_vitality																										0
-dmg-fire/str	1			15	min_firedmg_per_strength			16	max_firedmg_per_strength																										0
+dmg-ltng/vit	1			15	min_ltngdmg_per_vit			16	max_ltngdmg_per_vit																										0
+dmg-fire/str	1			15	min_firedmg_per_str			16	max_firedmg_per_str																										0
+dmg-ltng/dex	1			15	min_ltngdmg_per_dex			16	max_ltngdmg_per_vit																										0
+dmg-cold/enr	1			15	min_colddmg_per_enr			16	max_colddmg_per_enr																										0
+curse-rad	1			1	item_curse_radius																														0
+curse-effect	1			1	item_curse_effect																														0
+aura-effect	1			1	item_aura_effect																														0
+extra-ele	1			1	passive_fire_mastery			3	passive_ltng_mastery			3	passive_cold_mastery			3	passive_wind_mastery																		0
+extra-fleshbone	1			1	passive_pois_mastery			3	passive_mag2_mastery																										0
+wind%/str	1			1	item_wind%_perstr																														0
+wind%/mana	1			1	item_wind%_permana																														0
+cold%/dex	1			1	item_cold%_perdex																														0
+ltng%/dex	1			1	item_ltng%_perdex																														0
+fire%/ar	1			1	item_fire%_perar																														0
+psn%/ar	1			1	item_poison_perar																														0
+mag%/str	1			1	item_magic%_perstr																														0
+mag%/mana	1			1	item_magic%_permana																														0

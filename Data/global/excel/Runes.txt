@@ -967,9 +967,10 @@ Runeword964	Angel	1		helm									Heaven Shi	r96	r03					oskill	500	3	3	skill	50
 Runeword965	Work of God	1		2hsw									God No Mi Wa Sa	r97	r36	r10	r27	r15		aura	Conviction	16	16	att-skill	Holy Bolt	20	40	dmg%		380	480	dmg-demon		400	400	dmg-undead		400	400									0
 Runeword965	Work of God	1		mele									God No Mi Wa Sa	r97	r36	r10	r27	r15		aura	Conviction	10	10	att-skill	Holy Bolt	13	40	dmg%		380	480	dmg-demon		400	400	dmg-undead		400	400									0
 Runeword966	Gold Scarab	1		tors									Ko Metal Mu Shi	r19	r88	r40	r03			aura	Resist Lightning	10	10	oskill	Holy Shock	10	20	ltng%/gold%		2	2	gold%		20	200	ac		1000	2000									0
-Runeword967	Creature	1		helm									Life Ki Mo No	r94	r08	r35	r36			oskill	365	10	20	oskill	221	10	20	ama-hawk		75	125	ama-hawk2		11	21	allskills		1	1									0
+Runeword967	Creature	1		helm									Life Ki Mo No	r94	r08	r35	r36			oskill	221	10	20	allskills		1	1	charged	RavenDamage	1	9	charged	RavenCrushingBlow	1	5													0
 Runeword968	Shinigami	1		2hsw									Death God	r95	r97					hit-skill	Static Field	25	10	allskills		3	3	swing1		20	30	dmg/lvl	32			dmg%/lvl	20											0
 Runeword968	Shinigami	1		mele									Death God	r95	r97					hit-skill	Static Field	25	5	allskills		1	1	swing1		20	30	dmg/lvl	20			dmg%/lvl	20											0
 Runeword969	Moonlight	1		miss									Moon Ko U	r84	r19	r02				oskill	471	3	3	skill	471	6	12	dmg%		230	260	dmg%/lvl	24			dmg-mag		1000	1000									0
-Runeword970	Sunlight	1		shld									Sun Ko U	r90	r19	r02				hit-skill	Nova	15	40	oskill	Holy Fire	15	20	pierce-fire		10	20	fire%/dex		3	3	dmg-fire/kill		1	1									0
+Runeword970	Sunlight	1		shld									Sun Ko U	r90	r19	r02				hit-skill	Nova	15	40	oskill	Holy Fire	15	20	pierce-fire		10	20	fire%/str		3	3	dmg-fire/kill		1	1									0
 Runeword971	Tourbillion	1		staf	npol								Tsu Mu Shi Wind	r13	r40	r03	r92			oskill	467	5	15	swing1		30	40	dmg%		400	500	red-dmg%		10	20	hit-skill	245	5	30									0
+Runeword972	Creature	1		2hcw									Life Ki Mo No	r94	r08	r35	r36			oskill	Fire Hawk	10	20	allskills		2	3	charged	HawkDamage	1	9	charged	HawkCrushingBlow	1	5	hp/lvl	8											0

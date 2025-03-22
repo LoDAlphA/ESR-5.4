@@ -23,9 +23,9 @@ Gem	gem	sock		0	0					0	0	0	0			1	0	1	0	0	0	0	0	3		0		0							misc	0
 Torch	torc	misc		0	1					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0							misc	0
 Scroll	scro	misc		0	0					0	0	0	0			1	0	0	1	0	0	0	0	3		0		0							misc	0
 Not Used				0	0					0	0	0	0			0	0	0	0	0	0	0	0	3		0		0								0
-Scepter	scep	rod		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	1	pal	0		0							weap	0
-Wand	wand	rod		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	1	nec	0		0							weap	0
-Staff	staf	rod		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	1	sor	0		0							weap	0
+Scepter	scep	rod		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	1		0	pal	0							weap	0
+Wand	wand	rod		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	1		0	nec	0							weap	0
+Staff	staf	rod		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	1		0		0							weap	0
 Bow	bow	miss		0	1	rarm	larm	bowq		0	0	0	0		1	0	0	0	0	3	5	6	1	3		0		0							weap	0
 Axe	axe	mele		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	3		0		0							weap	0
 Club	club	blun		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	3		0		0							weap	0
@@ -68,12 +68,12 @@ Sorceress Item	sorc	clas		0	0					0	0	0	0		1	0	0	0	0	0	0	0	0	1		0	sor	0								0
 Assassin Item	assn	clas		0	0					0	0	0	0		1	0	0	0	0	0	0	0	0	2		0	ass	0								0
 Druid Item	drui	clas		0	0					0	0	0	0		1	0	0	0	0	0	0	0	0	1		0	dru	0								0
 Hand to Hand	h2h			1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	2		0		0							weap	0
-Orb	orb	staf	sorc	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	1	sor	0	sor	0							weap	0
-Voodoo Heads	head	shld	necr	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	3	4	0	1	nec	0	nec	0							armo	0
-Auric Shields	ashd	shld	pala	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	4	4	0	1	pal	0	pal	0							armo	0
-Primal Helm	phlm	helm	barb	1	1	head	head			0	0	0	0		1	0	0	0	0	3	3	4	0	1	bar	0	bar	0							armo	0
-Pelt	pelt	helm	drui	1	1	head	head			0	0	0	0		1	0	0	0	0	3	3	4	0	1	dru	0	dru	0							armo	0
-Cloak (Old)	cloa	tors	assn	1	1	tors	tors			0	0	0	0		1	0	0	0	0	0	0	0	0	1	ass	0	ass	0							armo	0
+Orb	orb	staf	sorc	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	1		0	sor	0							weap	0
+Voodoo Heads	head	shld	necr	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	3	4	0	1		0	nec	0							armo	0
+Auric Shields	ashd	shld	pala	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	4	4	0	1		0	pal	0							armo	0
+Primal Helm	phlm	helm	barb	1	1	head	head			0	0	0	0		1	0	0	0	0	3	3	4	0	1		0	bar	0							armo	0
+Pelt	pelt	helm	drui	1	1	head	head			0	0	0	0		1	0	0	0	0	3	3	4	0	1		0	dru	0							armo	0
+Cloak (Old)	cloa	tors	assn	1	1	tors	tors			0	0	0	0		1	0	0	0	0	0	0	0	0	1		0	ass	0							armo	0
 Rune	rune	sock		0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0							misc	0
 Circlet	circ	helm		1	1	head	head			0	0	0	0		1	0	0	0	0	3	3	4	0	3		1		0							armo	0
 Healing Potion	hpot	poti		0	0					0	0	0	0			1	0	0	1	0	0	0	0	3		0		0							misc	0
@@ -82,13 +82,13 @@ Rejuv Potion	rpot	hpot	mpot	0	0					0	0	0	0			1	0	0	1	0	0	0	0	3		0		0							misc
 Stamina Potion	spot	poti		0	0					0	0	0	0			1	0	0	1	0	0	0	0	3		0		0							misc	0
 Antidote Potion	apot	poti		0	0					0	0	0	0			1	0	0	1	0	0	0	0	3		0		0							misc	0
 Thawing Potion	wpot	poti		0	0					0	0	0	0			1	0	0	1	0	0	0	0	3		0		0							misc	0
-Small Charm	scha	char		0	0					0	0	0	0	1	1	0	1	0	0	0	0	0	0	3		0		3	invch1	invch4	invch7				misc	0
-Large Charm	mcha	char		0	0					0	0	0	0	1	1	0	1	0	0	0	0	0	0	3		0		3	invch2	invch5	invch8				misc	0
-Grand Charm	lcha	char		0	0					0	0	0	0	1	1	0	1	0	0	0	0	0	0	3		0		3	invch3	invch6	invch9				misc	0
+Small Charm	scha	char		0	0					0	0	0	0	1		0	1	0	0	0	0	0	0	3		0		3	invch1	invch4	invch7				misc	0
+Large Charm	mcha	char		0	0					0	0	0	0	1		0	1	0	0	0	0	0	0	3		0		3	invch2	invch5	invch8				misc	0
+Grand Charm	lcha	char		0	0					0	0	0	0	1		0	1	0	0	0	0	0	0	3		0		3	invch3	invch6	invch9				misc	0
 Amazon Bow	abow	bow	amaz	0	1	rarm	larm	bowq		0	0	0	0		1	0	0	0	0	3	5	6	1	1		0	ama	0							weap	0
 Amazon Spear	aspe	spea	amaz	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	1		0	ama	0							weap	0
 Amazon Javelin	ajav	jave	amaz	1	1	rarm	larm			1	1	1	1		1	0	0	0	0	3	5	6	0	1		0	ama	0							misc	0
-Hand to Hand 1	h2h1	claw	assn	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	2	ass	0	ass	0							weap	0
+Hand to Hand 1	h2h1	claw	assn	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	2		0	ass	0							weap	0
 Bow Quiver	arrm	bowq		1	1	rarm	larm		bow	0	1	1	1		1	0	0	0	0	1	1	1	0	3		0		0							misc	0
 Crossbow Quiver	boqm	xboq		1	1	rarm	larm		xbow	0	1	1	1		1	0	0	0	0	1	1	1	0	3		0		0							misc	0
 Chipped Gem	gem0	gem		0	0					0	0	0	0			1	0	1	0	0	0	0	0	3		0		0							misc	0
@@ -105,29 +105,29 @@ Sapphire	gems	gem		0	0					0	0	0	0			1	0	1	0	0	0	0	0	3		0		0							misc	0
 Topaz	gemt	gem		0	0					0	0	0	0			1	0	1	0	0	0	0	0	3		0		0							misc	0
 Skull	gemz	gem		0	0					0	0	0	0			1	0	1	0	0	0	0	0	3		0		0							misc	0
 Obsidian	gemk	gem		0	0					0	0	0	0			1	0	1	0	0	0	0	0	3		0		0							misc	0
-Amazonian Loop	zrin	amaz	ring	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	ama	0	ama	3	invringama1	invringama2	invringama3				misc	0
-Sorcerer's Band	srin	sorc	ring	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	sor	0	sor	3	invringsorc1	invringsorc2	invringsorc3				misc	0
-Necromancer's Stone	nrin	necr	ring	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	nec	0	nec	3	invringnec1	invringnec2	invringnec3				misc	0
-Paladic Halo	prin	pala	ring	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	pal	0	pal	3	invringpala1	invringpala2	invringpala3				misc	0
-Barbaric Knuckle	brin	barb	ring	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	bar	0	bar	3	invringbarb1	invringbarb2	invringbarb3				misc	0
-Druid's Seal	drin	drui	ring	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	dru	0	dru	3	invringdruid1	invringdruid2	invringdruid3				misc	0
-Assassin's Jewel	arin	assn	ring	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	ass	0	ass	3	invringassa1	invringassa2	invringassa3				misc	0
-Amazonian Pin	zamu	amaz	amul	0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	ama	0	ama	3	invamuama1	invamuama2	invamuama3				misc	0
-Sorcerer's Talisman	samu	sorc	amul	0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	sor	0	sor	3	invamusorc1	invamusorc2	invamusorc3				misc	0
-Death's Locket	namu	necr	amul	0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	nec	0	nec	3	invamunec1	invamunec2	invamunec3				misc	0
-Holy Pendant	pamu	pala	amul	0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	pal	0	pal	3	invamupala1	invamupala2	invamupala3				misc	0
-Primal Charm	bamu	barb	amul	0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	bar	0	bar	3	invamubarb1	invamubarb2	invamubarb3				misc	0
-Druidic Necklace	damu	drui	amul	0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	dru	0	dru	3	invamudruid1	invamudruid2	invamudruid3				misc	0
-Assassin's Choker	aamu	assn	amul	0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	ass	0	ass	3	invamuassa1	invamuassa2	invamuassa3				misc	0
-Amazon Bow	pbow	bow	amaz	1	1	rarm	larm	bowq		0	0	0	0		1	0	0	0	0	3	5	6	1	1	ama	0	ama	0							weap	0
-Sorceress Mana Blade	mana	swor	sorc	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	1	sor	0	sor	0							weap	0
-Necromancer Dagger	ndgr	knif	necr	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	1	nec	0	nec	0							weap	0
-Necromancer Polearm	npol	pole	necr	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	3	nec	0	nec	0							weap	0
-Paladin Sword	bedg	swor	pala	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	1	pal	0	pal	0							weap	0
-Barbarian Javs	bjav	taxe	barb	1	1	rarm	larm			1	1	1	1		1	0	0	0	0	3	5	6	0	3	bar	0	bar	0							misc	0
-Druid Club	dclb	club	drui	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	3	dru	0	dru	0							weap	0
-Assassin 1H Katana	asns	swor	assn	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	2	ass	0	ass	0							weap	0
-Assassin 2H Katana	asnx	swor	assn	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	2	ass	0	ass	0							weap	0
+Amazonian Loop	zrin	amaz	ring	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3		0	ama	3	invringama1	invringama2	invringama3				misc	0
+Sorcerer's Band	srin	sorc	ring	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3		0	sor	3	invringsorc1	invringsorc2	invringsorc3				misc	0
+Necromancer's Stone	nrin	necr	ring	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3		0	nec	3	invringnec1	invringnec2	invringnec3				misc	0
+Paladic Halo	prin	pala	ring	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3		0	pal	3	invringpala1	invringpala2	invringpala3				misc	0
+Barbaric Knuckle	brin	barb	ring	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3		0	bar	3	invringbarb1	invringbarb2	invringbarb3				misc	0
+Druid's Seal	drin	drui	ring	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3		0	dru	3	invringdruid1	invringdruid2	invringdruid3				misc	0
+Assassin's Jewel	arin	assn	ring	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3		0	ass	3	invringassa1	invringassa2	invringassa3				misc	0
+Amazonian Pin	zamu	amaz	amul	0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3		0	ama	3	invamuama1	invamuama2	invamuama3				misc	0
+Sorcerer's Talisman	samu	sorc	amul	0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3		0	sor	3	invamusorc1	invamusorc2	invamusorc3				misc	0
+Death's Locket	namu	necr	amul	0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3		0	nec	3	invamunec1	invamunec2	invamunec3				misc	0
+Holy Pendant	pamu	pala	amul	0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3		0	pal	3	invamupala1	invamupala2	invamupala3				misc	0
+Primal Charm	bamu	barb	amul	0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3		0	bar	3	invamubarb1	invamubarb2	invamubarb3				misc	0
+Druidic Necklace	damu	drui	amul	0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3		0	dru	3	invamudruid1	invamudruid2	invamudruid3				misc	0
+Assassin's Choker	aamu	assn	amul	0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3		0	ass	3	invamuassa1	invamuassa2	invamuassa3				misc	0
+Amazon Bow	pbow	bow	amaz	1	1	rarm	larm	bowq		0	0	0	0		1	0	0	0	0	3	5	6	1	1		0	ama	0							weap	0
+Sorceress Mana Blade	mana	swor	sorc	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	1		0	sor	0							weap	0
+Necromancer Dagger	ndgr	knif	necr	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	1		0	nec	0							weap	0
+Necromancer Polearm	npol	pole	necr	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	3		0	nec	0							weap	0
+Paladin Sword	bedg	swor	pala	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	1		0	pal	0							weap	0
+Barbarian Javs	bjav	taxe	barb	1	1	rarm	larm			1	1	1	1		1	0	0	0	0	3	5	6	0	3		0	bar	0							misc	0
+Druid Club	dclb	club	drui	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	3		0	dru	0							weap	0
+Assassin 1H Katana (unused)	asns	swor	assn	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	2		0	ass	0							weap	0
+Assassin 2H Katana	asnx	swor	assn	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	2		0	ass	0							weap	0
 2H Swing Weapon	2hsw			0	0					0	0	0	0		1	0	0	0	0	0	0	0	0	3		0		0								0
 Ancient Scroll	scrl			0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0							misc	0
 Ancient Scroll Low	asc1	scrl		0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0							misc	0
@@ -136,9 +136,9 @@ Coupon	coup	misc		0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0							misc	0
 Coupon norm	cpn1	coup		0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0							misc	0
 Coupon excep	cpn2	coup		0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0							misc	0
 Coupon elite	cpn3	coup		0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0							misc	0
-Square Charm	qcha	lcha		0	0					0	0	0	0	1	1	0	1	0	0	1	1	1	0	3		0		0							misc	0
-Odd Charm	ocha	lcha		0	0					0	0	0	0	1	1	0	1	0	0	1	1	1	0	3		0		0							misc	0
-Extra Charm	xcha	char		0	0					0	0	0	0		1	0	1	0	0	3	3	3	0	3		0		0							misc	0
+Square Charm	qcha	lcha		0	0					0	0	0	0	1		0	1	0	0	1	1	1	0	3		0		0							misc	0
+Odd Charm	ocha	lcha		0	0					0	0	0	0	1		0	1	0	0	1	1	1	0	3		0		0							misc	0
+Extra Charm	xcha	char		0	0					0	0	0	0			0	1	0	0	3	3	3	0	3		0		0							misc	0
 Cube Materials	cube	misc		0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0							misc	0
 Dragon Stones	dstn	cube		0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0							misc	0
 Set Token	tokn			0	0					0	0	0	0	1	1	0	0	0	0	0	0	0	0	3		0		0							misc	0
@@ -159,10 +159,10 @@ Chit Armor nm	cha2	cube		0	0					0	0	0	0	1	1	0	0	0	0	0	0	0	0	3		0		0							armo	
 Chit Weapon hell	chw3	cube		0	0					0	0	0	0	1	1	0	0	0	0	0	0	0	0	3		0		0							weap	0
 Chit Armor hell	cha3	cube		0	0					0	0	0	0	1	1	0	0	0	0	0	0	0	0	3		0		0							armo	0
 Claw	claw	h2h	mele	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	2		0		0							weap	0
-Knuckle	knuc	h2h	blun	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	2		0		0							weap	0
-Hand to Hand 2	h2h2	claw	assn	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	2	ass	0	ass	0							weap	0
-Robe	robe	tors		1	1	tors	tors			0	0	0	0		1	0	0	0	0	3	5	6	0	2	sor	0		0							armo	0
-Spirit Crown	scrn	helm		1	1	head	head			0	0	0	0		1	0	0	0	0	3	3	4	0	2	ama	0		0							armo	0
+Knuckle	knuc	h2h	blun	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	2		0	bar	0							weap	0
+Hand to Hand 2	h2h2	claw	assn	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	2		0	ass	0							weap	0
+Robe	robe	tors	sorc	1	1	tors	tors			0	0	0	0		1	0	0	0	0	3	5	6	0	2		0	sor	0							armo	0
+Spirit Crown	scrn	helm	amaz	1	1	head	head			0	0	0	0		1	0	0	0	0	3	3	4	0	2		0	ama	0							armo	0
 Monster Ring 0	mrn0			0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3		0		0							misc	0
 Monster Ring 1	mrn1			0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3		0		0							misc	0
 Monster Ring 2	mrn2			0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3		0		0							misc	0
@@ -172,9 +172,29 @@ Viper Amulet	vamu	misc		0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3		0		0					
 Passive Enabler	ycha	char		0	0					0	0	0	0			1	1	0	0	0	0	0	0	3		0		0							misc	0
 Ore	rock			0	0					0	0	0	0	1	1	0	0	0	0	0	0	0	0	3		0		0							misc	0
 Gem Can 1	can9	misc		0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0							misc	0
-Cloak	clok	tors		1	1	tors	tors			0	0	0	0		1	0	0	0	0	3	5	6	0	1	ass	0		0							armo	0
+Cloak	clok	tors	assn	1	1	tors	tors			0	0	0	0		1	0	0	0	0	3	5	6	0	1		0	ass	0							armo	0
 Magic Eraser	eras	cube		0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0							misc	0
 Gem 6 Pack	gm6p	cube		0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0							misc	0
 Organ 6 Pack	or6p	cube		0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0								0
 Grand Charm 3	tcha	char		0	0					0	0	0	0			0	1	0	0	3	3	3	0	3		0		0							misc	0
 Grand Charm 4	tchb	char		0	0					0	0	0	0			0	1	0	0	0	0	0	0	3		0		0							misc	0
+Thorned Armor	spike	tors		1	1	tors	tors			0	0	0	0		1	0	0	0	0	3	5	6	0	2		0		0							armo	0
+Dwarven Helmet	dwav	helm		1	1	head	head			0	0	0	0		1	0	0	0	0	3	3	4	0	3		1		0							armo	0
+Drow Elven Chain	slyv	tors		1	1	tors	tors			0	0	0	0		1	0	0	0	0	3	5	6	0	2		0		0							armo	0
+Leather Wrap	wrap	belt		1	1	belt	belt			0	0	0	0		1	0	0	0	0	2	2	2	0	3		1		0							armo	0
+Guards	gurd	glov		1	1	glov	glov			0	0	0	0		1	0	0	0	0	2	2	2	0	3		1		0							armo	0
+Luminous Boots	lmnb	boot		1	1	feet	feet			0	0	0	0		1	0	0	0	0	2	2	2	0	3		1		0							armo	0
+Bastille Shield	bshd	shld		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	3	4	0	3		1		0							armo	0
+1H Swing Weapon	1hsw			0	0					0	0	0	0		1	0	0	0	0	0	0	0	0	3		0		0								0
+Melee Scepter	scpm	scep	pala	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	1		0	pal	0							weap	0
+Melee Knife	knfm	knif		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	3		0		0							weap	0
+Melee Staff	stfm	staf		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	1		0		0							weap	0
+Caster Scepter	scpc	scep	pala	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	1		0	pal	0							weap	0
+Caster Knife	knfc	knif		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	3		0		0							weap	0
+Caster Staff	stfc	staf		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	1		0		0							weap	0
+Druid Caster Club	dclc	club	drui	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	3		0	dru	0							weap	0
+Alder Club	dcbm	dclb	drui	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	3		0	dru	0							weap	0
+1H Caster Weapon	1hcw			0	0					0	0	0	0		1	0	0	0	0	0	0	0	0	3		0		0								0
+2H Caster Weapon	2hcw			0	0					0	0	0	0		1	0	0	0	0	0	0	0	0	3		0		0								0
+Necro Wand	wdnr	wand	necr	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	1		0	nec	0							weap	0
+Hand to Hand 3	h3h3	knuc	barb	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	2		0	barb	0							weap	0
