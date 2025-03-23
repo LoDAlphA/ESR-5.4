@@ -411,10 +411,10 @@ Knight's	100	1	1	60		48				20	151	att		120	160	dmg%	41	60								2hsw	xbow						
 Lord's	100	1	1	80		60				18	151	att		150	200	dmg%	61	80								2hsw	xbow						h2h1					0	0	0	410
 Lord's	100	1	1	95		66				16	151	att		210	280	dmg%	81	100								2hsw	xbow						h2h1					0	0	0	411
 																																									
-Placeholder's	100	1	1	20	60	18				22	151	pierce		6	12	dmg%	20	40								tkni	taxe	jave										0	0	0	408
-Placeholder's	100	1	1	60		48				20	151	pierce		8	16	dmg%	41	60								tkni	taxe	jave										0	0	0	409
-Placeholder's	100	1	1	80		60				18	151	pierce		10	20	dmg%	61	80								tkni	taxe	jave										0	0	0	410
-Placeholder's	100	1	1	95		66				16	151	pierce		12	24	dmg%	81	100								tkni	taxe	jave										0	0	0	411
+Stabbing	100	1	1	20	60	18				22	151	pierce		6	12	dmg%	20	40								tkni	taxe	jave										0	0	0	408
+Stabbing	100	1	1	60		48				20	151	pierce		8	16	dmg%	41	60								tkni	taxe	jave										0	0	0	409
+Impaling	100	1	1	80		60				18	151	pierce		10	20	dmg%	61	80								tkni	taxe	jave										0	0	0	410
+Impaling	100	1	1	95		66				16	151	pierce		12	24	dmg%	81	100								tkni	taxe	jave										0	0	0	411
 																																									412
 Glinting	100	1	1	1	10	1				28	152	dmg-min		1	2											1hsw	bow						h2h1					0	0	0	413
 Glinting	100	1	1	5	15	3				28	152	dmg-min		2	4											1hsw	bow						h2h1					0	0	0	414
@@ -1152,47 +1152,47 @@ Magekiller's	100	1	1	45		42	ass		33	8	209	ass		1	1											amul	ring										
 Magekiller's	100	1	1	80		60	ass		42	6	209	ass		1	2											aamu	arin											0	0	0	1146
 Witch-hunter's	100	1	1	95		66	ass		60	4	209	ass		2	3											aamu												0	0	0	1147
 																																									
-Placeholder's	100	1	1	20	60	18				8	210	hp/dex		4	4											zamu	zrin											0	0	0	1196
-Placeholder's	100	1	1	60		48				8	210	hp/dex		5	5											zamu	zrin											0	0	0	1197
-Placeholder's	100	1	1	80		60				4	210	hp/dex		6	6											zamu	zrin											0	0	0	1198
-Placeholder's	100	1	1	95		66				2	210	hp/dex		7	7											zamu	zrin											0	0	0	1199
-Placeholder's	100	1	1	95		66				2	210	hp/dex		8	8											zamu												0	0	0	1199
+Righteous	100	1	1	20	60	18				8	210	hp/dex		2	2											zamu	zrin											0	0	0	1196
+Righteous	100	1	1	60		48				8	210	hp/dex		3	3											zamu	zrin											0	0	0	1197
+Righteous	100	1	1	80		60				4	210	hp/dex		4	4											zamu	zrin											0	0	0	1198
+Devoted	100	1	1	95		66				2	210	hp/dex		5	5											zamu	zrin											0	0	0	1199
+Devoted	100	1	1	95		66				2	210	hp/dex		6	6											zamu												0	0	0	1199
 																																									
-Placeholder's	100	1	1	20	60	18				8	210	mana/lvl	4			dmg-to-mana		4	8							samu	srin											0	0	0	1196
-Placeholder's	100	1	1	60		48				8	210	mana/lvl	5			dmg-to-mana		5	10							samu	srin											0	0	0	1197
-Placeholder's	100	1	1	80		60				4	210	mana/lvl	6			dmg-to-mana		6	12							samu	srin											0	0	0	1198
-Placeholder's	100	1	1	95		66				2	210	mana/lvl	7			dmg-to-mana		7	14							samu	srin											0	0	0	1199
-Placeholder's	100	1	1	95		66				2	210	mana/lvl	8			dmg-to-mana		8	16							samu												0	0	0	1199
+Cherubic	100	1	1	20	60	18				8	210	mana/lvl	4			dmg-to-mana		4	8							samu	srin											0	0	0	1196
+Cherubic	100	1	1	60		48				8	210	mana/lvl	5			dmg-to-mana		5	10							samu	srin											0	0	0	1197
+Cherubic	100	1	1	80		60				4	210	mana/lvl	6			dmg-to-mana		6	12							samu	srin											0	0	0	1198
+Radiant	100	1	1	95		66				2	210	mana/lvl	7			dmg-to-mana		7	14							samu	srin											0	0	0	1199
+Radiant	100	1	1	95		66				2	210	mana/lvl	8			dmg-to-mana		8	16							samu												0	0	0	1199
 																																									
-Placeholder's	100	1	1	20	60	18				8	210	curse-effect		1	2											namu	nrin											0	0	0	1196
-Placeholder's	100	1	1	60		48				8	210	curse-effect		2	4											namu	nrin											0	0	0	1197
-Placeholder's	100	1	1	80		60				4	210	curse-effect		3	6											namu	nrin											0	0	0	1198
-Placeholder's	100	1	1	95		66				2	210	curse-effect		4	8											namu	nrin											0	0	0	1199
-Placeholder's	100	1	1	95		66				2	210	curse-effect		5	10											namu												0	0	0	1199
+Profane	100	1	1	20	60	18				8	210	curse-effect		1	2											namu	nrin											0	0	0	1196
+Profane	100	1	1	60		48				8	210	curse-effect		2	4											namu	nrin											0	0	0	1197
+Profane	100	1	1	80		60				4	210	curse-effect		3	6											namu	nrin											0	0	0	1198
+Unhallowed	100	1	1	95		66				2	210	curse-effect		4	8											namu	nrin											0	0	0	1199
+Unhallowed	100	1	1	95		66				2	210	curse-effect		5	10											namu												0	0	0	1199
 																																									
-Placeholder's	100	1	1	20	60	18				8	210	aura-effect		0	1											pamu	prin											0	0	0	1196
-Placeholder's	100	1	1	60		48				8	210	aura-effect		1	2											pamu	prin											0	0	0	1197
-Placeholder's	100	1	1	80		60				4	210	aura-effect		2	3											pamu	prin											0	0	0	1198
-Placeholder's	100	1	1	95		66				2	210	aura-effect		3	4											pamu	prin											0	0	0	1199
-Placeholder's	100	1	1	95		66				2	210	aura-effect		4	5											pamu												0	0	0	1199
+Sublime	100	1	1	20	60	18				8	210	aura-effect		0	1											pamu	prin											0	0	0	1196
+Sublime	100	1	1	60		48				8	210	aura-effect		1	2											pamu	prin											0	0	0	1197
+Sublime	100	1	1	80		60				4	210	aura-effect		2	3											pamu	prin											0	0	0	1198
+Exalted	100	1	1	95		66				2	210	aura-effect		3	4											pamu	prin											0	0	0	1199
+Exalted	100	1	1	95		66				2	210	aura-effect		4	5											pamu												0	0	0	1199
 																																									
-Placeholder's	100	1	1	20	60	18				8	210	warcry-effect		0	1											bamu	brin											0	0	0	1196
-Placeholder's	100	1	1	60		48				8	210	warcry-effect		1	2											bamu	brin											0	0	0	1197
-Placeholder's	100	1	1	80		60				4	210	warcry-effect		2	3											bamu	brin											0	0	0	1198
-Placeholder's	100	1	1	95		66				2	210	warcry-effect		3	4											bamu	brin											0	0	0	1199
-Placeholder's	100	1	1	95		66				2	210	warcry-effect		4	5											bamu												0	0	0	1199
+Untamed	100	1	1	20	60	18				8	210	warcry-effect		0	1											bamu	brin											0	0	0	1196
+Untamed	100	1	1	60		48				8	210	warcry-effect		1	2											bamu	brin											0	0	0	1197
+Untamed	100	1	1	80		60				4	210	warcry-effect		2	3											bamu	brin											0	0	0	1198
+Primordial	100	1	1	95		66				2	210	warcry-effect		3	4											bamu	brin											0	0	0	1199
+Primordial	100	1	1	95		66				2	210	warcry-effect		4	5											bamu												0	0	0	1199
 																																									
-Placeholder's	100	1	1	20	60	18				8	210	res-fire-max		0	1	res-ltng-max		0	1	res-cold-max		0	1			damu	drin											0	0	0	1196
-Placeholder's	100	1	1	60		48				8	210	res-fire-max		0	2	res-ltng-max		0	2	res-cold-max		0	2			damu	drin											0	0	0	1197
-Placeholder's	100	1	1	80		60				4	210	res-fire-max		1	3	res-ltng-max		1	3	res-cold-max		1	3			damu	drin											0	0	0	1198
-Placeholder's	100	1	1	95		66				2	210	res-fire-max		1	4	res-ltng-max		1	4	res-cold-max		1	4			damu	drin											0	0	0	1199
-Placeholder's	100	1	1	95		66				2	210	res-fire-max		2	5	res-ltng-max		2	5	res-cold-max		2	5			damu												0	0	0	1199
+Verdant	100	1	1	20	60	18				8	210	res-fire-max		0	1	res-ltng-max		0	1	res-cold-max		0	1			damu	drin											0	0	0	1196
+Verdant	100	1	1	60		48				8	210	res-fire-max		0	2	res-ltng-max		0	2	res-cold-max		0	2			damu	drin											0	0	0	1197
+Verdant	100	1	1	80		60				4	210	res-fire-max		1	3	res-ltng-max		1	3	res-cold-max		1	3			damu	drin											0	0	0	1198
+Burgeoning	100	1	1	95		66				2	210	res-fire-max		1	4	res-ltng-max		1	4	res-cold-max		1	4			damu	drin											0	0	0	1199
+Burgeoning	100	1	1	95		66				2	210	res-fire-max		2	5	res-ltng-max		2	5	res-cold-max		2	5			damu												0	0	0	1199
 																																									
-Placeholder's	100	1	1	20	60	18				8	210	move1		3	8											aamu	arin											0	0	0	1196
-Placeholder's	100	1	1	60		48				8	210	move1		6	11											aamu	arin											0	0	0	1197
-Placeholder's	100	1	1	80		60				4	210	move2		9	14											aamu	arin											0	0	0	1198
-Placeholder's	100	1	1	95		66				2	210	move2		12	17											aamu	arin											0	0	0	1199
-Placeholder's	100	1	1	95		66				2	210	move2		15	20											aamu												0	0	0	1199
+Adroit	100	1	1	20	60	18				8	210	move1		3	8											aamu	arin											0	0	0	1196
+Adroit	100	1	1	60		48				8	210	move1		6	11											aamu	arin											0	0	0	1197
+Adroit	100	1	1	80		60				4	210	move2		9	14											aamu	arin											0	0	0	1198
+Deft	100	1	1	95		66				2	210	move2		12	17											aamu	arin											0	0	0	1199
+Deft	100	1	1	95		66				2	210	move2		15	20											aamu												0	0	0	1199
 																																									
 Gelid	100	1	1	5	15	3				28	250	res-cold		5	10											jewl												0	0	0	1149
 Gelid	100	1	1	15	35	12				28	250	res-cold		8	13											jewl												0	0	0	1150

@@ -671,47 +671,47 @@ of Belief	100	1	1	60		48				6	312	allskills		1	1											amul										0	0	0	6
 of Faith	100	1	1	80		60				4	312	allskills		1	2											amul										0	0	0	670
 of Faith	100	1	1	95		66				2	312	allskills		2	2											amul										0	0	0	671
 																																							
-of the Placeholder	100	1	1	20	60	18				8	210	crush		2	4											zamu	zrin											0	0
-of the Placeholder	100	1	1	60		48				8	210	crush		3	6											zamu	zrin											0	0
-of the Placeholder	100	1	1	80		60				4	210	crush		4	8											zamu	zrin											0	0
-of the Placeholder	100	1	1	95		66				2	210	crush		5	10											zamu	zrin											0	0
-of the Placeholder	100	1	1	95		66				2	210	crush		6	12											zamu												0	0
+of the Yamabushi	100	1	1	20	60	18				8	210	crush		2	4											zamu	zrin											0	0
+of the Yamabushi	100	1	1	60		48				8	210	crush		3	6											zamu	zrin											0	0
+of the Yamabushi	100	1	1	80		60				4	210	crush		4	8											zamu	zrin											0	0
+of Sokenzan	100	1	1	95		66				2	210	crush		5	10											zamu	zrin											0	0
+of Sokenzan	100	1	1	95		66				2	210	crush		6	12											zamu												0	0
 																																							
-of the Placeholder	100	1	1	20	60	18				8	210	enr%		1	4											samu	srin											0	0
-of the Placeholder	100	1	1	60		48				8	210	enr%		2	5											samu	srin											0	0
-of the Placeholder	100	1	1	80		60				4	210	enr%		3	6											samu	srin											0	0
-of the Placeholder	100	1	1	95		66				2	210	enr%		4	7											samu	srin											0	0
-of the Placeholder	100	1	1	95		66				2	210	enr%		5	8											samu												0	0
+of the Moonfolk	100	1	1	20	60	18				8	210	enr%		1	4											samu	srin											0	0
+of the Moonfolk	100	1	1	60		48				8	210	enr%		2	5											samu	srin											0	0
+of the Moonfolk 	100	1	1	80		60				4	210	enr%		3	6											samu	srin											0	0
+of Otawara	100	1	1	95		66				2	210	enr%		4	7											samu	srin											0	0
+of Otawara	100	1	1	95		66				2	210	enr%		5	8											samu												0	0
 																																							
-of the Placeholder	100	1	1	20	60	18				8	210	red-mag		2	8	res-pois-len		0	15							namu	nrin											0	0
-of the Placeholder	100	1	1	60		48				8	210	red-mag		4	10	res-pois-len		5	30							namu	nrin											0	0
-of the Placeholder	100	1	1	80		60				4	210	red-mag		6	12	res-pois-len		20	45							namu	nrin											0	0
-of the Placeholder	100	1	1	95		66				2	210	red-mag		8	14	res-pois-len		35	60							namu	nrin											0	0
-of the Placeholder	100	1	1	95		66				2	210	red-mag		10	16	res-pois-len		50	75							namu												0	0
+of the Nezumi	100	1	1	20	60	18				8	210	red-mag		2	8	res-pois-len		0	15							namu	nrin											0	0
+of the Nezumi	100	1	1	60		48				8	210	red-mag		4	10	res-pois-len		5	30							namu	nrin											0	0
+of the Nezumi	100	1	1	80		60				4	210	red-mag		6	12	res-pois-len		20	45							namu	nrin											0	0
+of Shizo	100	1	1	95		66				2	210	red-mag		8	14	res-pois-len		35	60							namu	nrin											0	0
+of Shizo	100	1	1	95		66				2	210	red-mag		10	16	res-pois-len		50	75							namu												0	0
 																																							
-of the Placeholder	100	1	1	20	60	18				8	210	red-dmg		2	6	red-dmg%		0	1							pamu	prin											0	0
-of the Placeholder	100	1	1	60		48				8	210	red-dmg		4	8	red-dmg%		1	2							pamu	prin											0	0
-of the Placeholder	100	1	1	80		60				4	210	red-dmg		6	10	red-dmg%		2	3							pamu	prin											0	0
-of the Placeholder	100	1	1	95		66				2	210	red-dmg		8	12	red-dmg%		3	4							pamu	prin											0	0
-of the Placeholder	100	1	1	95		66				2	210	red-dmg		10	14	red-dmg%		4	5							pamu												0	0
+of the Samurai	100	1	1	20	60	18				8	210	red-dmg		2	6	red-dmg%		0	1							pamu	prin											0	0
+of the Samurai	100	1	1	60		48				8	210	red-dmg		4	8	red-dmg%		1	2							pamu	prin											0	0
+of the Samurai	100	1	1	80		60				4	210	red-dmg		6	10	red-dmg%		2	3							pamu	prin											0	0
+of Eiganjo	100	1	1	95		66				2	210	red-dmg		8	12	red-dmg%		3	4							pamu	prin											0	0
+of Eiganjo	100	1	1	95		66				2	210	red-dmg		10	14	red-dmg%		4	5							pamu												0	0
 																																							
-of the Placeholder	100	1	1	20	60	18				8	210	hp/str		4	4											bamu	brin											0	0
-of the Placeholder	100	1	1	60		48				8	210	hp/str		5	5											bamu	brin											0	0
-of the Placeholder	100	1	1	80		60				4	210	hp/str		6	6											bamu	brin											0	0
-of the Placeholder	100	1	1	95		66				2	210	hp/str		7	7											bamu	brin											0	0
-of the Placeholder	100	1	1	95		66				2	210	hp/str		8	8											bamu												0	0
+of the Sanzoku 	100	1	1	20	60	18				8	210	hp/str		4	4											bamu	brin											0	0
+of the Sanzoku	100	1	1	60		48				8	210	hp/str		5	5											bamu	brin											0	0
+of the Sanzoku	100	1	1	80		60				4	210	hp/str		6	6											bamu	brin											0	0
+of Shinka	100	1	1	95		66				2	210	hp/str		7	7											bamu	brin											0	0
+of Shinka	100	1	1	95		66				2	210	hp/str		8	8											bamu												0	0
 																																							
-of the Placeholder	100	1	1	20	60	18				8	210	abs-all		2	4	abs-all%		0	1							damu	drin											0	0
-of the Placeholder	100	1	1	60		48				8	210	abs-all		4	6	abs-all%		0	1							damu	drin											0	0
-of the Placeholder	100	1	1	80		60				4	210	abs-all		6	8	abs-all%		1	1							damu	drin											0	0
-of the Placeholder	100	1	1	95		66				2	210	abs-all		8	10	abs-all%		1	2							damu	drin											0	0
-of the Placeholder	100	1	1	95		66				2	210	abs-all		10	12	abs-all%		2	2							damu												0	0
+of the Monk	100	1	1	20	60	18				8	210	abs-all		2	4	abs-all%		0	1							damu	drin											0	0
+of the Monk	100	1	1	60		48				8	210	abs-all		4	6	abs-all%		0	1							damu	drin											0	0
+of the Monk	100	1	1	80		60				4	210	abs-all		6	8	abs-all%		1	1							damu	drin											0	0
+of Okina	100	1	1	95		66				2	210	abs-all		8	10	abs-all%		1	2							damu	drin											0	0
+of Okina	100	1	1	95		66				2	210	abs-all		10	12	abs-all%		2	2							damu												0	0
 																																							
-of the Placeholder	100	1	1	20	60	18				8	210	res-curse-len		2	4											aamu	arin											0	0
-of the Placeholder	100	1	1	60		48				8	210	res-curse-len		4	6											aamu	arin											0	0
-of the Placeholder	100	1	1	80		60				4	210	res-curse-len		6	8											aamu	arin											0	0
-of the Placeholder	100	1	1	95		66				2	210	res-curse-len		8	10											aamu	arin											0	0
-of the Placeholder	100	1	1	95		66				2	210	res-curse-len		10	12											aamu												0	0
+of the Ronin	100	1	1	20	60	18				8	210	res-curse-len		2	4											aamu	arin											0	0
+of the Ronin	100	1	1	60		48				8	210	res-curse-len		4	6											aamu	arin											0	0
+of the Ronin	100	1	1	80		60				4	210	res-curse-len		6	8											aamu	arin											0	0
+of Takenuma	100	1	1	95		66				2	210	res-curse-len		8	10											aamu	arin											0	0
+of Takenuma	100	1	1	95		66				2	210	res-curse-len		10	12											aamu												0	0
 																																							672
 of Mettle	100	1	1	5	15	3				28	350	str		3	6											jewl										0	0	0	673
 of Mettle	100	1	1	15	35	12				28	350	str		4	8											jewl										0	0	0	674
